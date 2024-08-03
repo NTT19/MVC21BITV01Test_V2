@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MidTerm
 build_property.RootNamespace = MidTerm
@@ -17,6 +25,30 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\University\Y2_HK3\Application-Development\MVC21BITV01Test_V2\MidTerm\MidTerm
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1MVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau1/HangHoaAscending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1MVxIYW5nSG9hQXNjZW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau1/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1MVxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau2/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1MlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau2/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1MlxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Cau3/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1M1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
 
 [D:/University/Y2_HK3/Application-Development/MVC21BITV01Test_V2/MidTerm/MidTerm/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
